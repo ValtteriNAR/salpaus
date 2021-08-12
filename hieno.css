@@ -2,6 +2,12 @@ body{
   background-color: rgb(0, 255, 213)}
 div{background-color:green }
 div{text-align:center}
-
-
-
+a {
+  color: hotpink;
+}
+/* mouse over link */
+a:hover {
+  color:orange
+}
+a:link {
+  text-decoration: none;
