@@ -17,3 +17,88 @@ a:hover {
 a:link {
   text-decoration: none;
 }
+#Projekti1{
+  background-color: blue
+} 
+#Projekti4{
+  color: palevioletred;
+  background-color: purple;
+}
+#Projekti3{
+  color: palevioletred;
+  background-color: purple;
+  margin: auto;
+  width:30% ;
+  text-align:center;
+  height:auto ;
+}
+#Nimi{
+  color: palevioletred;
+  background-color: purple;
+  width: 10% ;
+  margin-bottom: auto
+}
+#teksti{
+  width: 70%;
+  margin-top: -24%
+}
+#Tieto{
+  color: palevioletred;
+  background-color: purple;
+  width: 10% ; 
+  margin-top: 20%
+}
+#teksti2{
+  width: 70%;
+  margin-top: 0
+}
+#ruksi1{
+  
+}
+#Kenttadiv{
+  background-color: wheat;
+  width: 200%;
+  margin: auto;
+  text-align: left;
+  height: 15%;
+}
+#Tausta{
+  background-color: lightcoral;
+}
+#Kentta{
+margin-left: auto;
+
+}
+.boksit{
+  list-style-type: none;
+}
+.ilmoitus{
+   background-color: wheat;
+  width: 200%;
+  margin: auto;
+  text-align: left;
+  height: 15%; 
+}
+#haasteen_tausta{
+  background-color: red;
+}
+#paadivi{
+  background-color: white;
+  height: 10%;
+  font-family: fantasy;
+  font-size: 30px;
+}
+#notification{
+  background-color: black;
+  color: aqua;
+  font-family: fantasy;
+
+}
+.lootat{
+  list-style-type: none;
+}
+#Valinnatdiv{
+  background-color: black;
+  color: azure;
+  font-family: fantasy;
+}
